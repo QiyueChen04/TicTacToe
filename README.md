@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe implemented using React
+This is TicTacToe implemented using ReactJS. 
